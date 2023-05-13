@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 body {
-background-image: url("pic/bkg.jpg");
+background-image: url("bkg.jpg");
 background-size: cover;
     font-family: "TW Cen MT Regular";
         margin: 0px;
